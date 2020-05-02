@@ -5,5 +5,5 @@ COPY package.json .
 RUN yarn
 COPY . .
 
-EXPOSE 5678
-CMD ["node", "src/index.js"]
+EXPOSE 23456
+CMD ["node", "dist/index.js"]
