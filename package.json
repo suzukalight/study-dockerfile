@@ -1,7 +1,7 @@
 {
   "name": "study-dockerfile",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "suzukalight <mail@mkubara.com>",
   "license": "MIT",
   "dependencies": {
